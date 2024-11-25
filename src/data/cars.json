@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "marque": "Toyota",
+    "modele": "Corolla",
+    "categorie": "Compact"
+  },
+  {
+    "id": 2,
+    "marque": "Honda",
+    "modele": "Civic",
+    "categorie": "Compact"
+  },
+  {
+    "id": 3,
+    "marque": "Ford",
+    "modele": "Focus",
+    "categorie": "Compact"
+  },
+  {
+    "id": 4,
+    "marque": "BMW",
+    "modele": "X5",
+    "categorie": "SUV"
+  },
+  {
+    "id": 5,
+    "marque": "Audi",
+    "modele": "Q7",
+    "categorie": "SUV"
+  },
+  {
+    "id": 6,
+    "marque": "Mercedes",
+    "modele": "GLC",
+    "categorie": "SUV"
+  },
+  {
+    "id": 7,
+    "marque": "Porsche",
+    "modele": "Cayenne",
+    "categorie": "SUV"
+  },
+  {
+    "id": 8,
+    "marque": "Tesla",
+    "modele": "Model S",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 9,
+    "marque": "Nissan",
+    "modele": "Leaf",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 10,
+    "marque": "Renault",
+    "modele": "Zoe",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 11,
+    "marque": "Volkswagen",
+    "modele": "Golf",
+    "categorie": "Compact"
+  },
+  {
+    "id": 12,
+    "marque": "Chevrolet",
+    "modele": "Bolt",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 13,
+    "marque": "Mazda",
+    "modele": "CX-5",
+    "categorie": "SUV"
+  },
+  {
+    "id": 14,
+    "marque": "Kia",
+    "modele": "Sportage",
+    "categorie": "SUV"
+  },
+  {
+    "id": 15,
+    "marque": "Hyundai",
+    "modele": "Ioniq",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 16,
+    "marque": "Peugeot",
+    "modele": "208",
+    "categorie": "Compact"
+  },
+  {
+    "id": 17,
+    "marque": "Citroën",
+    "modele": "C3",
+    "categorie": "Compact"
+  },
+  {
+    "id": 18,
+    "marque": "Jeep",
+    "modele": "Wrangler",
+    "categorie": "SUV"
+  },
+  {
+    "id": 19,
+    "marque": "Tesla",
+    "modele": "Model 3",
+    "categorie": "Electrique"
+  },
+  {
+    "id": 20,
+    "marque": "Fiat",
+    "modele": "500",
+    "categorie": "Compact"
+  }
+]
